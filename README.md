@@ -1,11 +1,5 @@
 # Banking-App
 
-Here’s a README for your **SamBank** Android application:
-
----
-
-# SamBank - Android App
-
 **Banking-App** is a modern mobile banking application that offers users access to a digital wallet, account management, and notifications. Built using the latest Android technologies, the app provides a clean and intuitive user experience through Jetpack Compose, ensuring smooth navigation and a responsive UI.
 
 ## Features
