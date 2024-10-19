@@ -27,7 +27,7 @@ Here’s a README for your **SamBank** Android application:
 - **Notifications Screen**: Allows users to view notifications in a simple, centered layout.
 - **Account Screen**: Provides access to account management features.
 
-- **Only The Home screen is implemented for now, will do the other screens later, and feel free to contribute to this project**
+- **Only The Home screen is implemented for now, will implement the other screens later, also feel free to contribute to this project**
 
 ## How to Run the App
 1. Clone the repository and open the project in Android Studio.
